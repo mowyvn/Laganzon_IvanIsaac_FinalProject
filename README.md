@@ -53,7 +53,7 @@ Laganzon_IvanIsaac_FinalProject/
 ## Option 1: Via Git
 Clone the Repository to your local machine and go to the folder.
 ```bash
-git clone https://github.com/
+git clone https://github.com/mowyvn/Laganzon_IvanIsaac_FInalProject.git
 ```
 ## Option 2: Zip File
 Extract the zip file you downloaded and go to the extracted folder.
