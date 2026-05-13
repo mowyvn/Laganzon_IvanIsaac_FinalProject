@@ -1,0 +1,281 @@
+[
+    {
+        "title": "Richman",
+        "artist": "3OH!3",
+        "genre": "Crunkcore",
+        "mood": "Energetic",
+        "energy_level": 9,
+        "favorite": true,
+        "play_count": 32
+    },
+    {
+        "title": "Fendi 2",
+        "artist": "Khim",
+        "genre": "Hip Hop",
+        "mood": "Energetic",
+        "energy_level": 9,
+        "favorite": false,
+        "play_count": 55
+    },
+    {
+        "title": "Circus",
+        "artist": "Britney Spears",
+        "genre": "Pop",
+        "mood": "Happy",
+        "energy_level": 9,
+        "favorite": false,
+        "play_count": 35
+    },
+    {
+        "title": "Fashion",
+        "artist": "Britney Manson",
+        "genre": "Electronic",
+        "mood": "Motivated",
+        "energy_level": 8,
+        "favorite": true,
+        "play_count": 55
+    },
+    {
+        "title": "MILLION DOLLAR BABY",
+        "artist": "Tommy Richman",
+        "genre": "Pop-Rock",
+        "mood": "Motivated",
+        "energy_level": 8,
+        "favorite": true,
+        "play_count": 29
+    },
+    {
+        "title": "Confident",
+        "artist": "Justin Bieber",
+        "genre": "Pop",
+        "mood": "Motivated",
+        "energy_level": 8,
+        "favorite": true,
+        "play_count": 25
+    },
+    {
+        "title": "Let It Happen",
+        "artist": "Tame Impala",
+        "genre": "Psychedelic Pop",
+        "mood": "Motivated",
+        "energy_level": 8,
+        "favorite": false,
+        "play_count": 53
+    },
+    {
+        "title": "Stateside",
+        "artist": "PinkPantheress",
+        "genre": "Drum and Bass",
+        "mood": "Energetic",
+        "energy_level": 8,
+        "favorite": false,
+        "play_count": 37
+    },
+    {
+        "title": "The Way I Are",
+        "artist": "Timbaland",
+        "genre": "R&B",
+        "mood": "Happy",
+        "energy_level": 8,
+        "favorite": false,
+        "play_count": 30
+    },
+    {
+        "title": "Feel Good Inc.",
+        "artist": "Gorillaz",
+        "genre": "Alternative Rock",
+        "mood": "Energetic",
+        "energy_level": 8,
+        "favorite": false,
+        "play_count": 16
+    },
+    {
+        "title": "One Dance",
+        "artist": "Drake",
+        "genre": "Dancehall",
+        "mood": "Groovy",
+        "energy_level": 7,
+        "favorite": true,
+        "play_count": 33
+    },
+    {
+        "title": "The Less I Know the Better",
+        "artist": "Tame Impala",
+        "genre": "Psychedelic Pop",
+        "mood": "Groovy",
+        "energy_level": 7,
+        "favorite": false,
+        "play_count": 60
+    },
+    {
+        "title": "Pussypodium",
+        "artist": "Akiara",
+        "genre": "Electronic",
+        "mood": "Happy",
+        "energy_level": 7,
+        "favorite": false,
+        "play_count": 47
+    },
+    {
+        "title": "Gigolo",
+        "artist": "bbno$",
+        "genre": "Hip Hop",
+        "mood": "Happy",
+        "energy_level": 7,
+        "favorite": false,
+        "play_count": 28
+    },
+    {
+        "title": "Poster Boy",
+        "artist": "Floxe",
+        "genre": "Pop",
+        "mood": "Groovy",
+        "energy_level": 6,
+        "favorite": true,
+        "play_count": 25
+    },
+    {
+        "title": "Konbini",
+        "artist": "misa",
+        "genre": "J-Pop",
+        "mood": "Groovy",
+        "energy_level": 6,
+        "favorite": true,
+        "play_count": 21
+    },
+    {
+        "title": "Love Potions",
+        "artist": "BJ Lips",
+        "genre": "Indie",
+        "mood": "Groovy",
+        "energy_level": 6,
+        "favorite": false,
+        "play_count": 34
+    },
+    {
+        "title": "Confidence",
+        "artist": "Ardent",
+        "genre": "Rock",
+        "mood": "Motivated",
+        "energy_level": 6,
+        "favorite": false,
+        "play_count": 22
+    },
+    {
+        "title": "Babydoll",
+        "artist": "Dominic Fike",
+        "genre": "Indie Pop",
+        "mood": "Chill",
+        "energy_level": 5,
+        "favorite": false,
+        "play_count": 54
+    },
+    {
+        "title": "no song without you",
+        "artist": "HONNE",
+        "genre": "Electropop",
+        "mood": "Chill",
+        "energy_level": 5,
+        "favorite": false,
+        "play_count": 43
+    },
+    {
+        "title": "Self Aware",
+        "artist": "Temper City",
+        "genre": "Indie Rock",
+        "mood": "Sad",
+        "energy_level": 5,
+        "favorite": false,
+        "play_count": 29
+    },
+    {
+        "title": "My Jealousy",
+        "artist": "Vivi Baby",
+        "genre": "Pop",
+        "mood": "Sad",
+        "energy_level": 5,
+        "favorite": false,
+        "play_count": 22
+    },
+    {
+        "title": "Nope Your Too Late I Already Died",
+        "artist": "wifiskeleton",
+        "genre": "Alternative",
+        "mood": "Motivated",
+        "energy_level": 5,
+        "favorite": false,
+        "play_count": 21
+    },
+    {
+        "title": "Welcome And Goodbye",
+        "artist": "Dream, Ivory",
+        "genre": "Indie Rock",
+        "mood": "Sad",
+        "energy_level": 5,
+        "favorite": false,
+        "play_count": 16
+    },
+    {
+        "title": "Soft Spot",
+        "artist": "keshi",
+        "genre": "Alternative R&B",
+        "mood": "Chill",
+        "energy_level": 4,
+        "favorite": true,
+        "play_count": 44
+    },
+    {
+        "title": "Dancing With My Phone",
+        "artist": "HYBS",
+        "genre": "Indie Pop",
+        "mood": "Chill",
+        "energy_level": 4,
+        "favorite": false,
+        "play_count": 45
+    },
+    {
+        "title": "Moonlight On The River",
+        "artist": "Mac DeMarco",
+        "genre": "Indie Rock",
+        "mood": "Sad",
+        "energy_level": 4,
+        "favorite": false,
+        "play_count": 18
+    },
+    {
+        "title": "Pretty Girl",
+        "artist": "Clairo",
+        "genre": "Bedroom Pop",
+        "mood": "Focused",
+        "energy_level": 3,
+        "favorite": true,
+        "play_count": 36
+    },
+    {
+        "title": "Comfort Chain",
+        "artist": "Instupendo",
+        "genre": "Electronic",
+        "mood": "Focused",
+        "energy_level": 3,
+        "favorite": false,
+        "play_count": 19
+    },
+    {
+        "title": "Cats In The Cold",
+        "artist": "Mage Tears",
+        "genre": "Lofi",
+        "mood": "Focused",
+        "energy_level": 2,
+        "favorite": false,
+        "play_count": 25
+    },
+    {
+        "title": "Something In The Way",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "mood": "Sad",
+        "energy_level": 2,
+        "favorite": false,
+        "play_count": 24
+    }
+]
