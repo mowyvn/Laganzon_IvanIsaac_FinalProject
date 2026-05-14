@@ -1,4 +1,5 @@
 """This module contains the Song class which represents an individual song."""
+from utils import red, rst
 
 red = "\033[91m"
 rst = "\033[0m"

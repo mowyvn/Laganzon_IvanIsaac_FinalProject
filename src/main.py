@@ -3,13 +3,7 @@ import sys
 import time
 from library import MusicLibrary
 from song import Song
-from utils import clear_screen, get_valid_energy, titles, eb
-
-yellow = "\033[93m"
-green = "\033[92m"
-red = "\033[91m"
-orange = "\033[38;5;214m"
-rst = "\033[0m"
+from utils import clear_screen, get_valid_energy, titles, eb, red, green, yellow, orange, rst
 
 def display_menu():
     """Displays the main user menu."""
@@ -55,7 +49,8 @@ def main():
                 if not (artist := input("Enter artist name: ")): continue
                 if not (genre := input("Enter genre: ")): continue
                 if not (mood := input("Enter mood (e.g., Energetic, Chill, Focused, Happy): ")): continue
-                if not (energy := get_valid_energy("Enter energy level (1-10): ")): continue
+                
+                if not (energy := get_valid_energy("Enter energy level (1-10): ", title, artist, genre, mood)): continue
                 
                 new_song = Song(title, artist, genre, mood, energy)
                 if library.add_song(new_song):
